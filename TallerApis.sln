@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerApis.Apis", "TallerApis.Apis\TallerApis.Apis.csproj", "{26B8A1D3-63E3-4720-AEFC-5B43D2C45B8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerApis.Xamarin.Android", "TallerApis.Xamarin\TallerApis.Xamarin.Android\TallerApis.Xamarin.Android.csproj", "{19E13472-E12D-4C83-9D27-0F8B464997A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerApis.Xamarin", "TallerApis.Xamarin\TallerApis.Xamarin\TallerApis.Xamarin.csproj", "{C652E6E0-53C1-4214-A344-C2425D0872C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,16 @@ Global
 		{26B8A1D3-63E3-4720-AEFC-5B43D2C45B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26B8A1D3-63E3-4720-AEFC-5B43D2C45B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26B8A1D3-63E3-4720-AEFC-5B43D2C45B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E13472-E12D-4C83-9D27-0F8B464997A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E13472-E12D-4C83-9D27-0F8B464997A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E13472-E12D-4C83-9D27-0F8B464997A5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{19E13472-E12D-4C83-9D27-0F8B464997A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E13472-E12D-4C83-9D27-0F8B464997A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E13472-E12D-4C83-9D27-0F8B464997A5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C652E6E0-53C1-4214-A344-C2425D0872C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C652E6E0-53C1-4214-A344-C2425D0872C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C652E6E0-53C1-4214-A344-C2425D0872C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C652E6E0-53C1-4214-A344-C2425D0872C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
